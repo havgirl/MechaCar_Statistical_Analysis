@@ -60,18 +60,18 @@ These activities include the following:
 
 **Q1. What metric or metrics are you going to test?**
 
-*A1.   *
+*A1. In this decision test, we will test MechaCar's safety ratings against cars that fall within the same car classification.*
 
 **Q2. What is the null hypothesis or alternative hypothesis?**
 
-*A2.   *
+*A2. Null Hypothesis: MechaCar is safe compared to its competitors based on key safety ratings.*
 
 **Q3. What statistical test would you use to test the hypothesis? And why?**
 
-*A3.   *
+*A3. A paired test comparing safety ratings could be used to test MechaCar against the competitors.*
 
 **Q4. What data is needed to run the statistical test?**
 
-*A4.  *
+*A4. The data required will include the type of car, and ratings on the following safety tests: frontal crash, side crash, rollover.  These will then be compared in the paired testing and results will be used to approve/reject the null hypothesis.*
 
 
