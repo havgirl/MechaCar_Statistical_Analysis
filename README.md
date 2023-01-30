@@ -15,17 +15,17 @@ These activities include the following:
 
 **After completing the linear regression analysis, AutoRus requested a response to the following questions.**
 
-Q1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+**Q1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
 
 *A1. The strongest contributors of non-random variances include:*
 *- Vehicle length - p-value 2.60e-12*
 *- Ground clearance - p-value 5.21e-08*
 
-Q2. Is the slope of the linear model considered to be zero? Why or why not?
+**Q2. Is the slope of the linear model considered to be zero? Why or why not?**
 
 *A2. The slope of the linear model is not zero as vehicle length, ground clearance and AWD are coefficients that contain non-zero values.
 
-Q3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+**Q3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
 
 *A3. The r-squared value of 0.7149 indicates the model had good predictive power for mpg.
 
