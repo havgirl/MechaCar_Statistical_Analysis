@@ -50,7 +50,7 @@ These activities include the following:
 **After completing the summary and lot tests on the suspension coils, AutoRus requested we summarize our interpretation and finding for the results, which follow.**
 
 - *Test 1 sample has a p-value of 1, which means there is no statistical difference between the sample mean and the presumed population mean, thererefore we cannot reject the null hypothesis.*
-- *Test 2 - Lot 1 has a p-value of 1.568e-11 which indicates there is a higher probability of occurance using the null hypothesis which cannot therefore be rejected.*
+- *Test 2 - Lot 1 has a p-value of 1.568e-11 which is smaller than the assumed significance level of 0.05% and indicates there is evidence to reject the null hypothesis.*
 - *Test 3 - Lot 2 has a sample mean of 1500.2, and a p-value of .0005, which is lower than the common significance level of .05.  This indicates to reject the null hypothesis that the sample and population means are not statistically different.*
 - *Test 4 - Lot 3 has a sample mean of 1496.14, and a p-value of .1589; therefore the null hypothesis cannot be rejected.*
 
