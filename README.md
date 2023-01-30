@@ -11,6 +11,8 @@ These activities include the following:
 
 ### Linear Regression to Predict MPG
 
+![](Images/Module16.1c.jpeg)
+
 After completing the linear regression analysis, AutoRus requested a response to the following questions.
 Q1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 A1.
