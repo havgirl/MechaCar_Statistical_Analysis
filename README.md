@@ -17,25 +17,38 @@ After completing the linear regression analysis, AutoRus requested a response to
 
 Q1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-A1.
+A1. The strongest contributors of non-random variances include:
+- Vehicle length - p-value 2.60e-12
+- Ground clearance - p-value 5.21e-08
 
 Q2. Is the slope of the linear model considered to be zero? Why or why not?
 
-A2.
+A2. The slope of the linear model is not zero as vehicle length, ground clearance and AWD are coefficients that contain non-zero values.
 
 Q3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-A3.
+A3. The r-squared value of 0.7149 indicates the model had good predictive power for mpg.
 
 ### Summary Statistics on Suspension Coilds
 
+![](Images/Module16.2a.png)
+![](Images/Module16.2b.png)
+
 After completing the summary statistics, AutoRus requested we address the following question.
+
 Q1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specticiation for all manufacturing lots in total and each lot individually? Why or why not?
-A1.
+
+A1. Although the total summary indicates a variance of 62.29356 which falls within the allowed threshold, it is imperative that each lot is reviewed individually.  Here, we see concern especially in Lot Three, which indicates a variance of 170 PSI and therefore does not meet the maximum variance requirement.
 
 ### T-Tests on Suspension Coils
 
+![](Images/Module16.3a.png)
+![](Images/Module16.3b.png)
+![](Images/Module16.3c.png)
+![](Images/Module16.3d.png)
+
 After completing the summary and lot tests on the suspension coils, AutoRus requested we summarize our interpretation and finding for the results, which follow.
+
 
 
 ### Design Study Comparing the MechaCar to the Competition
